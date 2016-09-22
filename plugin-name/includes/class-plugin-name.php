@@ -6,8 +6,7 @@
  * A class definition that includes attributes and functions used across both the
  * public-facing side of the site and the admin area.
  *
- * @link       http://example.com
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    Plugin_Name
  * @subpackage Plugin_Name/includes
@@ -22,10 +21,10 @@
  * Also maintains the unique identifier of this plugin as well as the current
  * version of the plugin.
  *
- * @since      1.0.0
+ * @since      0.1.0
  * @package    Plugin_Name
  * @subpackage Plugin_Name/includes
- * @author     Your Name <email@example.com>
+ * @author     Austin Tindle <austin.tindle@ucf.edu>
  */
 class Plugin_Name {
 
@@ -33,7 +32,7 @@ class Plugin_Name {
 	 * The loader that's responsible for maintaining and registering all hooks that power
 	 * the plugin.
 	 *
-	 * @since    1.0.0
+	 * @since    0.1.0
 	 * @access   protected
 	 * @var      Plugin_Name_Loader    $loader    Maintains and registers all hooks for the plugin.
 	 */
