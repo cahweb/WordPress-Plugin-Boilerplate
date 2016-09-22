@@ -1,4 +1,4 @@
-=== Plugin Name ===
+#Plugin Name
 Contributors: tindleaj
 Tags: comments, spam
 Requires at least: 3.0.1
