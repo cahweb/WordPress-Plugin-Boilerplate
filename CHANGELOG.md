@@ -1,5 +1,8 @@
 # Changelog
-* (3 July 2015). Flattened the folder structure so there is no .org repo parent folder.
-* (4 September 2014). Updating the `README` with Windows symbolic link instructions.
-* (3 September 2014). Updating the `README` to describe how to install the Boilerplate.
-* (1 September 2014). Initial Release.
+All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](http://semver.org/)
+
+## [Unreleased]
+
+## [0.1.0] - 2016/09/22
+### Notes
+- Forked from [DevinVinson/WordPress-Plugin-Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate)
